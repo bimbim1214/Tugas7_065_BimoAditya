@@ -1,0 +1,30 @@
+body{
+    background-image: url(Audi-R8-GT-30.avif);
+    background-repeat: #170101;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+h2{
+    font-family: "Bungee Spice", sans-serif;
+    letter-spacing: 1px;
+            text-transform: uppercase;
+            text-align: center;
+            border: 2px solid #170101;
+            background: #03040e;
+            color: #38127e;
+            box-shadow: 1px 1px 1px #010105;
+            border-radius: 12px;
+            padding: 3px 10px;
+            cursor: pointer;
+}
+
+picture img{
+    border-radius: 12px;
+    width:200px;
+    height:200px;
+}
